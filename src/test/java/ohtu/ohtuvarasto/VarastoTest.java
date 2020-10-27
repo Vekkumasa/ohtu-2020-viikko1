@@ -26,6 +26,11 @@ public class VarastoTest {
     }
     
     @Test
+    public void enTestaaMitaan() {
+        
+    }
+    
+    @Test
     public void tyhjanVarastonLuominen() {
         Varasto uusiVarasto = new Varasto(0);
         assertEquals(0, uusiVarasto.getTilavuus(), vertailuTarkkuus);
