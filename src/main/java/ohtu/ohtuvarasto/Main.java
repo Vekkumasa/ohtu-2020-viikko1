@@ -10,7 +10,8 @@ public class Main {
         System.out.println("Luonnin jälkeen:");
         System.out.println("Mehuvarasto: " + mehua);
         System.out.println("Olutvarasto: " + olutta);
-
+        System.out.println("Olutvarasto: " + olutta);
+        
         System.out.println("Olutgetterit:");
         System.out.println("getSaldo()     = " + olutta.getSaldo());
         System.out.println("getTilavuus    = " + olutta.getTilavuus());
