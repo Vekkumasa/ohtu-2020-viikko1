@@ -4,4 +4,4 @@
 
 [![codecov](https://codecov.io/gh/Vekkumasa/ohtu-2020-viikko1/branch/main/graph/badge.svg?token=080R7L0CS9)](undefined)
 
-![Tehtävät 14-16](https://github.com/Vekkumasa/Ohjelmistotuotanto)
+[Tehtävät 14-16!](https://github.com/Vekkumasa/Ohjelmistotuotanto)
